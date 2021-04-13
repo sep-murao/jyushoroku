@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="../Add.css" rel="stylesheet">
+<link rel="stylesheet" href="Add.css">
+
 <meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
 <meta charset="UTF-8">
 <title>Add</title>
